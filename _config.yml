@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Mikhail Vilgelm"
-  avatar           : #""
+  avatar           : "profile.jpg"
   bio              : "Research and Teaching Associate, Ph.D. Candidate at Technical University Munich."
   location         : "Munich, Germany"
   employer         :
