@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Selected talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-Selected talks
-=========
 * *Prioritized Contention Resolution for Random Access Networked Control Systems*, Invited Talk at the University
 of Melbourne, Australia, Dec. 2017
 * *Scalable and Application-aware Medium Access for Wireless M2M Communication*, Invited Talk at the KTH
