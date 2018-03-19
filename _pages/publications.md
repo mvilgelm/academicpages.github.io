@@ -5,4 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find up-to-date publications list on my [Google Scholar page](https://scholar.google.de/citations?user=MxXPgfAAAAAJ&hl=en)
+You can find up-to-date publications list on my <u>[Google Scholar page](https://scholar.google.de/citations?user=MxXPgfAAAAAJ&hl=en)</u>
