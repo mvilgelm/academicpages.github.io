@@ -1,3 +1,9 @@
+---
+layout: archive
+permalink: /projects/
+title: "Projects"
+author_profile: true
+---
 
 The projects I am currently contributing to:
 
