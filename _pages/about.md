@@ -16,7 +16,7 @@ Education
 
 Employment history
 ======
-* 12/2013-Present: **Research and Teachning Associate**
+* 12/2013-Present: **Research and Teaching Associate**
   * Technical University of Munich, Chair of Communication Networks (group of Prof. Wolfgang Kellerer)
 
 * 05/2017-06/2017: **Visiting Researcher**
