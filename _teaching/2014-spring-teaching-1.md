@@ -7,3 +7,4 @@ venue: "TUM, Department of Electrical and Computer Engineering"
 date: 2014-04-01
 location: "Munich, Germany"
 ---
+Dates: 2014-2017
