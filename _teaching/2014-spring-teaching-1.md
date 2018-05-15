@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "TUM, Department of Electrical and Computer Engineering"
-date: 2014-01-01
+date: 2014-2017
 location: "Munich, Germany"
 ---
 
