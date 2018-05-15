@@ -8,12 +8,3 @@ start date: 2014-04-01
 end date: 2014-04-01
 location: "Munich, Germany"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
