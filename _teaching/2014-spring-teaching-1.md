@@ -4,7 +4,7 @@ collection: teaching
 type: "Laboratory supervisor, Tutor, (Graduate course)"
 permalink: /teaching/2014-spring-teaching-1
 venue: "TUM, Department of Electrical and Computer Engineering"
-date: 2014
+date: 2014-04-01
 location: "Munich, Germany"
 ---
 
