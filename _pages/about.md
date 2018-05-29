@@ -36,9 +36,11 @@ Mobile Network" (Q. Wei, M. Vilgelm, M. Lott, W. Kellerer)
 
 * 11/2012-07/2013 **Research Intern / Working Student**
   * Technical University of Munich, Chair of Communication Networks
+  * Software Defined Networking testbed development
 
 * 04/2012-10/2012 **Junior C++ Developer / Working Student**
   * Telemotive AG (Munich, Germany)
+  * Software development for automated product tests
 
 * 10/2010-10/2011 **Project Manager**
   * Optivera (Yekaterinburg, Russia)
