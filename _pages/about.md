@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an academic researcher in the field of wireless communications engineering. My current research interests and expertise lie in the following areas:
+I am academic researcher in the field of wireless communications engineering. My current research interests and expertise lie in the following areas:
 * Machine-to-Machine and Machine Type Communications,
 * Modeling and optimization of Medium Access Control protocols,
 * Modeling and analysis of Cyber Physical Networks.
