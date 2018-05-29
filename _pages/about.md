@@ -40,7 +40,7 @@ Mobile Network" (Q. Wei, M. Vilgelm, M. Lott, W. Kellerer)
 
 * 04/2012-10/2012 **Junior C++ Developer / Working Student**
   * Telemotive AG (Munich, Germany)
-  * Software development for automated product tests
+  * Software development for automated product tests, in-car communications (CAN, LIN, WLAN, ...)
 
 * 10/2010-10/2011 **Project Manager**
   * Optivera (Yekaterinburg, Russia)
