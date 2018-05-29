@@ -42,6 +42,7 @@ Mobile Network" (Q. Wei, M. Vilgelm, M. Lott, W. Kellerer)
 
 * 10/2010-10/2011 **Project Manager**
   * Optivera (Yekaterinburg, Russia)
+  * ICT integration projects, B2B
   
   
 More
