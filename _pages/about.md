@@ -22,15 +22,17 @@ Education
 Employment history
 ======
 * 06/2018-Present: **Visiting Researcher**
-  * Aalborg University, Dept. of Electronic Systems, Connectivity Section (Prof. Petar Popovski)
+  * Aalborg University, Denmark
+  * <u><a href="www.es.aau.dk/sections-labs/connectivity/">Dept. of Electronic Systems, Connectivity Section (Prof. Petar Popovski)</a></u>
   
 * 12/2013-Present: **Research and Teaching Associate**
-  * Technical University of Munich, Chair of Communication Networks (Prof. Wolfgang Kellerer)
+  * Technical University of Munich, Germany
+  * <u><a href="http://www.lkn.ei.tum.de">Chair of Communication Networks (Prof. Wolfgang Kellerer)</a></u>
   * See "Projects" Tab for more
 
 * 05/2017-06/2017: **Visiting Researcher**
   * KTH Royal Institute of Technology (Stockholm, Sweden)
-  * Dept. of Information Science and Engineering (group of Prof. James Gross)
+  * <u><a href="https://www.kth.se/ise">Dept. of Information Science and Engineering (group of Prof. James Gross)</a></u>
 
 * 04/2013-10/2013: **Master's thesis**
   * DOCOMO European Communication Laboratories (Munich, Germany)
