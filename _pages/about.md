@@ -23,7 +23,7 @@ Employment history
 ======
 * 06/2018-Present: **Visiting Researcher**
   * Aalborg University, Denmark
-  * <u><a href="www.es.aau.dk/sections-labs/connectivity/">Dept. of Electronic Systems, Connectivity Section (Prof. Petar Popovski)</a></u>
+  * <u><a href="http://www.es.aau.dk/sections-labs/connectivity/">Dept. of Electronic Systems, Connectivity Section (Prof. Petar Popovski)</a></u>
   
 * 12/2013-Present: **Research and Teaching Associate**
   * Technical University of Munich, Germany
