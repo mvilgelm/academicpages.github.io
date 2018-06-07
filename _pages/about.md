@@ -21,8 +21,12 @@ Education
 
 Employment history
 ======
+* 06/2018-Present: **Visiting Researcher**
+  * Aalborg University, Dept. of Electronic Systems, Connectivity Section (Prof. Petar Popovski)
+  
 * 12/2013-Present: **Research and Teaching Associate**
-  * Technical University of Munich, Chair of Communication Networks (group of Prof. Wolfgang Kellerer)
+  * Technical University of Munich, Chair of Communication Networks (Prof. Wolfgang Kellerer)
+  * See "Projects" Tab for more
 
 * 05/2017-06/2017: **Visiting Researcher**
   * KTH Royal Institute of Technology (Stockholm, Sweden)
