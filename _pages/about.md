@@ -25,7 +25,7 @@ Employment history
 * 12/2013-Present: **Researcher and Teaching Associate**
   * Technical University of Munich, Germany
   * <u><a href="http://www.lkn.ei.tum.de">Chair of Communication Networks (Prof. Wolfgang Kellerer)</a></u>
-  * See "Projects" Tab for more
+  * See [Projects](https://mvilgelm.github.io/projects/) for more
   
 * 06/2018-07/2018: **Visiting Researcher**
   * Aalborg University, Denmark
