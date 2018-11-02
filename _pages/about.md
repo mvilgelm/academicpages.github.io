@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am academic researcher in the field of wireless communications engineering. My current research interests and expertise lie in the following areas:
+I am an academic researcher in the field of wireless communications engineering. My current research interests and expertise lie in the following areas:
 * Machine learning with communications constraints,
 * Machine-to-Machine and Machine Type Communications,
 * Modeling and optimization of Medium Access Control protocols,
@@ -22,15 +22,15 @@ Education
 
 Employment history
 ======
-* 06/2018-Present: **Visiting Researcher**
-  * Aalborg University, Denmark
-  * <u><a href="http://www.es.aau.dk/sections-labs/connectivity/">Dept. of Electronic Systems, Connectivity Section (Prof. Petar Popovski)</a></u>
-  
-* 12/2013-Present: **Research and Teaching Associate**
+* 12/2013-Present: **Researcher and Teaching Associate**
   * Technical University of Munich, Germany
   * <u><a href="http://www.lkn.ei.tum.de">Chair of Communication Networks (Prof. Wolfgang Kellerer)</a></u>
   * See "Projects" Tab for more
-
+  
+* 06/2018-07/2018: **Visiting Researcher**
+  * Aalborg University, Denmark
+  * <u><a href="http://www.es.aau.dk/sections-labs/connectivity/">Dept. of Electronic Systems, Connectivity Section (Prof. Petar Popovski)</a></u>
+  
 * 05/2017-06/2017: **Visiting Researcher**
   * KTH Royal Institute of Technology (Stockholm, Sweden)
   * <u><a href="https://www.kth.se/ise">Dept. of Information Science and Engineering (group of Prof. James Gross)</a></u>
