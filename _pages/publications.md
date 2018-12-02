@@ -29,13 +29,30 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 2. Soleymani, T., Zoppi, S., Vilgelm, M., Hirche, S., Kellerer, W., & Baras, J. S. (2018). Covariance-based transmission power control for estimation over wireless sensor networks. In _European Control Conference (ECC)_.
 
-3. Schrader, V., Vilgelm, M., & Kellerer, W. (2017, December). On Random Access Channel Performance and M2M Support in Standalone LTE Unlicensed. In _GLOBECOM 2017-2017 IEEE Global Communications Conference_ (pp. 1-7). IEEE.
+3. Schrader, V., Vilgelm, M., & Kellerer, W. (2017, December). On Random Access Channel Performance and M2M Support in Standalone LTE Unlicensed. In _GLOBECOM 2017-2017 IEEE Global Communications Conference_ (pp. 1-7). IEEE. DOI: https://doi.org/10.1109/GLOCOM.2017.8254689
 
-4. Vilgelm, M., Rueda Linares, S., & Kellerer, W. (2017, October). Enhancing cellular M2M random access with binary countdown contention resolution. In _Personal, Indoor, and Mobile Radio Communications (PIMRC), 2017 IEEE 28th Annual International Symposium on_ (pp. 1-6). IEEE.
+4. Vilgelm, M., Rueda Linares, S., & Kellerer, W. (2017, October). Enhancing cellular M2M random access with binary countdown contention resolution. In _Personal, Indoor, and Mobile Radio Communications (PIMRC), 2017 IEEE 28th Annual International Symposium on_ (pp. 1-6). IEEE. DOI: https://doi.org/10.1109/PIMRC.2017.8292435
 
-5. Zoppi, S., Gürsu, H. M., Vilgelm, M., & Kellerer, W. (2017, June). Reliable hopping sequence design for highly interfered wireless sensor networks. In _Local and Metropolitan Area Networks (LANMAN), 2017 IEEE International Symposium on_(pp. 1-7). IEEE. 
+5. Zoppi, S., Gürsu, H. M., Vilgelm, M., & Kellerer, W. (2017, June). Reliable hopping sequence design for highly interfered wireless sensor networks. In _Local and Metropolitan Area Networks (LANMAN), 2017 IEEE International Symposium on_(pp. 1-7). IEEE. DOI: https://doi.org/10.1109/LANMAN.2017.7972164
 
-...
- 
+6. Vilgelm, M., & Kellerer, W. (2017, June). Binary contention resolution for M2M random access prioritization in LTE-A and 5G. In IFIP Networking Conference (IFIP Networking) and Workshops, 2017 (pp. 1-2). IEEE.  
+
+7. Grigoreva, E., Laurer, M., Vilgelm, M., Gehrsitz, T., & Kellerer, W. (2017, May). Coupled markovian arrival process for automotive machine type communication traffic modeling. In Communications (ICC), 2017 IEEE International Conference on (pp. 1-6). IEEE. DOI: https://doi.org/10.1109/ICC.2017.7996498
+
+8. Vilgelm, M., Ayan, O., Zoppi, S., & Kellerer, W. (2017, May). Control-aware Uplink Resource Allocation for Cyber-Physical Systems in Wireless Networks. In European Wireless 2017; 23th European Wireless Conference; Proceedings of (pp. 1-7). VDE.
+
+9. Mamduhi, M., Vilgelm, M., Kellerer, W., & Hirche, S. (2017). Prioritized contention resolution for random access networked control systems. In 56th IEEE Conference on Decision and Control (CDC).
+
+10. Vilgelm, M., & Kellerer, W. (2017, March). Impact of request aggregation on machine type connection establishment in LTE-Advanced. In Wireless Communications and Networking Conference (WCNC), 2017 IEEE (pp. 1-6). IEEE. DOI: https://doi.org/10.1109/WCNC.2017.7925664
+
+11. Vilgelm, M., Gürsu, M., Zoppi, S., & Kellerer, W. (2016, November). Time slotted channel hopping for smart metering: Measurements and analysis of medium access. In Smart Grid Communications (SmartGridComm), 2016 IEEE International Conference on (pp. 109-115). IEEE. DOI: https://doi.org/10.1109/SmartGridComm.2016.7778747
+
+12. Gürsu, M., Vilgelm, M., Zoppi, S., & Kellerer, W. (2016, May). Reliable co-existence of 802.15. 4e TSCH-based WSN and Wi-Fi in an Aircraft Cabin. In Communications Workshops (ICC), 2016 IEEE International Conference on (pp. 663-668). IEEE.
+
+13. Vilgelm, M., Neamtu, G., Mittendorfer, P., Cheng, G., & Kellerer, W. (2016, June). Partitioning algorithm for a resource-constrained robotic skin sensor network. In Black Sea Conference on Communications and Networking (BlackSeaCom), 2016 IEEE International (pp. 1-5). IEEE.
+
+14. Vilgelm, M., Mamduhi, M. H., Kellerer, W., & Hirche, S. (2016, April). Adaptive decentralized MAC for event-triggered networked control systems. In Proceedings of the 19th International Conference on Hybrid Systems: Computation and Control (pp. 165-174). ACM. DOI: https://doi.org/10.1145/2883817.2883829
+
+15. Gürsu, M., Vilgelm, M., Kellerer, W., & Fazlı, E. (2015, December). A wireless technology assessment for reliable communication in aircraft. In Wireless for Space and Extreme Environments (WiSEE), 2015 IEEE International Conference on (pp. 1-6). IEEE. DOI: https://doi.org/10.1109/WiSEE.2015.7392987
 
 
