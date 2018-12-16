@@ -13,7 +13,7 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Journals
 
-1. Vilgelm, M., Rueda Linares, S., Kellerer, W. (2018). On the Resource Consumption of M2M Random Access: Efficiency and Pareto Optimality. _IEEE Wireless Communications Letters_, _pp._.
+1. Vilgelm, M., Rueda Linares, S., Kellerer, W. (2018). On the Resource Consumption of M2M Random Access: Efficiency and Pareto Optimality. _IEEE Wireless Communications Letters_, _pp._. DOI: [https://doi.org/10.1109/LWC.2018.2886892]
 
 2. Zoppi, S., Van Bemten, A., Gürsu, H. M., Vilgelm, M., Guck, J., & Kellerer, W. (2018). Achieving Hybrid Wired/Wireless Industrial Networks With WDetServ: Reliability-Based Scheduling for Delay Guarantees. _IEEE Transactions on Industrial Informatics_, _14_(5), 2307-2319. DOI: [https://doi.org/10.1109/TII.2018.2803122](https://doi.org/10.1109/ICC.2018.8422323)
 
