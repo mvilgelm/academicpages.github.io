@@ -9,7 +9,7 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Book Chapters
 
-1. Gürsu, M., Vilgelm, M., Fazli, E., & Kellerer, W. (2017). A Medium‐access Approach to Wireless Technologies for Reliable Communication in Aircraft. _Wireless Sensor Systems for Extreme Environments: Space, Underwater, Underground and Industrial_, 431-451. DOI: [https://doi.org/10.1002/9781119126492.ch20](https://doi.org/10.1002/9781119126492.ch20)
+1. Gürsu, M., Vilgelm, M., Fazli, E., & Kellerer, W. (2017). A Medium‐access Approach to Wireless Technologies for Reliable Communication in Aircraft. _Wireless Sensor Systems for Extreme Environments: Space, Underwater, Underground and Industrial_, 431-451. <u><a href="https://doi.org/10.1002/9781119126492.ch20">DOI</a></u>
 
 # Journals
 
