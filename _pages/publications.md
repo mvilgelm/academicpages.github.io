@@ -23,6 +23,10 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Conference Proceedings
 
+5. Jacquelin, A., Vilgelm, M., Kellerer, W. (2019, January). Grant-Free Access with Multipacket Reception: Analysis and Reinforcement Learning Optimization. In _IEEE/IFIP Wireless On-demand Network systems and Services Conference (WONS)_, IEEE.
+
+5. Ayan, O., Vilgelm, M., Klügel, M., Hirche, S., Kellerer, W. (2019, April). Age-of-Information vs. Value-of-Information Scheduling for Cellular Networked Control Systems. In _ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)_, ACM/IEEE.
+
 5. Vilgelm, M., Schiessl, S., Al-Zubaidy, H., Kellerer, W., & Gross, J. (2018, May). On the Reliability of LTE Random Access: Performance Bounds for Machine-to-Machine Burst Resolution Time. In _2018 IEEE International Conference on Communications (ICC)_ (pp. 1-7). IEEE. <u><a href="https://doi.org/10.1109/ICC.2018.8422323">DOI</a></u>
 
 6. Soleymani, T., Zoppi, S., Vilgelm, M., Hirche, S., Kellerer, W., & Baras, J. S. (2018). Covariance-based transmission power control for estimation over wireless sensor networks. In _European Control Conference (ECC)_.
