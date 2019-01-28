@@ -47,12 +47,17 @@ Mobile Network" (Q. Wei, M. Vilgelm, M. Lott, W. Kellerer)
 
 * 04/2012-10/2012 **Junior C++ Developer / Working Student**
   * Telemotive AG (Munich, Germany)
-  * Software development for automated product tests, in-car communications (CAN, LIN, WLAN, ...)
+  * C++ Software development for automated product tests, in-car communications (CAN, LIN, WLAN, ...)
 
 * 10/2010-10/2011 **Project Manager**
   * Optivera (Yekaterinburg, Russia)
   * ICT integration projects, B2B
   
   
-More
+Awards
 ------
+
+* 01/2019 **Best Paper Award** at IEEE/IFIP Wireless On-demand Network systems and Services (WONS) Conference, Wengen, Switzerland, awarded for the paper *Grant-free Access with Multipacket Reception: Analysis and Reinforcement Learning Optimization*.
+
+* 10/2017 **Best Student Paper Award** at IEEE International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), awarded for the paper *Enhancing Cellular M2M Random Access with Binary Countdown Contention Resolution*.
+
