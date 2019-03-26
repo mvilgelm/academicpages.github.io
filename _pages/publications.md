@@ -13,13 +13,15 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Journals
 
-1. Vilgelm, M., Rueda Linares, S., Kellerer, W. (2018). On the Resource Consumption of M2M Random Access: Efficiency and Pareto Optimality. _IEEE Wireless Communications Letters_, _pp._. <u><a href="https://doi.org/10.1109/LWC.2018.2886892">DOI</a></u>
+1. Gürsu, M., Vilgelm, M., Martinez Alba, A., Berioli, M., Kellerer, W. (2019). Admission Control based Traffic-Agnostic Delay-Constrained Random Access (AC/DC-RA) for M2M Communication. _Accepted to IEEE Transactions on Wireless Communications_, _pp._.
 
-2. Zoppi, S., Van Bemten, A., Gürsu, H. M., Vilgelm, M., Guck, J., & Kellerer, W. (2018). Achieving Hybrid Wired/Wireless Industrial Networks With WDetServ: Reliability-Based Scheduling for Delay Guarantees. _IEEE Transactions on Industrial Informatics_, _14_(5), 2307-2319. <u><a href="https://doi.org/10.1109/TII.2018.2803122">DOI</a></u>
+2. Vilgelm, M., Rueda Linares, S., Kellerer, W. (2018). On the Resource Consumption of M2M Random Access: Efficiency and Pareto Optimality. _IEEE Wireless Communications Letters_, _pp._. <u><a href="https://doi.org/10.1109/LWC.2018.2886892">DOI</a></u>
 
-3. Gürsu, H. M., Vilgelm, M., Kellerer, W., & Reisslein, M. (2017). Hybrid collision avoidance-tree resolution for M2M random access. _IEEE Transactions on Aerospace and Electronic Systems_, _53_(4), 1974-1987. <u><a href="https://doi.org/10.1109/TAES.2017.2677839">DOI</a></u>
+3. Zoppi, S., Van Bemten, A., Gürsu, H. M., Vilgelm, M., Guck, J., & Kellerer, W. (2018). Achieving Hybrid Wired/Wireless Industrial Networks With WDetServ: Reliability-Based Scheduling for Delay Guarantees. _IEEE Transactions on Industrial Informatics_, _14_(5), 2307-2319. <u><a href="https://doi.org/10.1109/TII.2018.2803122">DOI</a></u>
 
-4. Vilgelm, M., Gürsu, H. M., Kellerer, W., & Reisslein, M. (2017). LATMAPA: Load-adaptive throughput-maximizing preamble allocation for prioritization in 5G random access. _IEEE Access_, _5_, 1103-1116. <u><a href="https://doi.org/10.1109/ACCESS.2017.2651170">DOI</a></u>
+4. Gürsu, H. M., Vilgelm, M., Kellerer, W., & Reisslein, M. (2017). Hybrid collision avoidance-tree resolution for M2M random access. _IEEE Transactions on Aerospace and Electronic Systems_, _53_(4), 1974-1987. <u><a href="https://doi.org/10.1109/TAES.2017.2677839">DOI</a></u>
+
+5. Vilgelm, M., Gürsu, H. M., Kellerer, W., & Reisslein, M. (2017). LATMAPA: Load-adaptive throughput-maximizing preamble allocation for prioritization in 5G random access. _IEEE Access_, _5_, 1103-1116. <u><a href="https://doi.org/10.1109/ACCESS.2017.2651170">DOI</a></u>
 
 # Conference Proceedings
 
