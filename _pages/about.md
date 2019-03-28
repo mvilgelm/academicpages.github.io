@@ -41,11 +41,11 @@ Employment history
   * Results published in IEEE Wireless Communications and Networking Conference (WCNC) 2014 as "Mobility Management in Optical
 Mobile Network" (Q. Wei, M. Vilgelm, M. Lott, W. Kellerer)
 
-* 11/2012-07/2013 **Research Intern / Working Student**
+* 11/2012-07/2013 **Research Intern / Software Development**
   * Technical University of Munich, Chair of Communication Networks
   * Software Defined Networking testbed development
 
-* 04/2012-10/2012 **Junior C++ Developer / Working Student**
+* 04/2012-10/2012 **Part-time C++ Developer / Working Student**
   * Telemotive AG (Munich, Germany)
   * C++ Software development for automated product tests, in-car communications (CAN, LIN, WLAN, ...)
 
