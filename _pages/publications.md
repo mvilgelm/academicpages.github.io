@@ -13,6 +13,8 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Journals
 
+1. Vilgelm, M., Rueda Linares, S., Kellerer, W. (2019). Dynamic Binary Countdown for Massive IoT Random Access in Dense 5G Networks. _Accepted to IEEE Internet of Things Journal_.
+
 1. Gürsu, M., Vilgelm, M., Martinez Alba, A., Berioli, M., Kellerer, W. (2019). Admission Control based Traffic-Agnostic Delay-Constrained Random Access (AC/DC-RA) for M2M Communication. _Accepted to IEEE Transactions on Wireless Communications_, _pp._.
 
 2. Vilgelm, M., Rueda Linares, S., Kellerer, W. (2018). On the Resource Consumption of M2M Random Access: Efficiency and Pareto Optimality. _IEEE Wireless Communications Letters_, _pp._. <u><a href="https://doi.org/10.1109/LWC.2018.2886892">DOI</a></u>
