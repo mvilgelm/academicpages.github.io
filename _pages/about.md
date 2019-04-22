@@ -16,7 +16,7 @@ I am an academic researcher in the field of wireless communications engineering.
 
 Education
 ======
-* *Ph.D. (Dr.-Ing.)*, Electrical Engineering and Information Technology, Technical University of Munich, Germany, 2014-present
+* *Ph.D. (Dr.-Ing.)*, Electrical Engineering and Information Technology, Technical University of Munich, Germany, 2014-2019
 * *M.Sc.*, Electrical Engineering and Information Technology, Technical University of Munich, (Germany), 2011-2013
 * *Engineering Degree (Dipl.-Ing.)*,  Information Technology, Ural Federal University (Yekaterinburg, Russia), 2006-2011
 
