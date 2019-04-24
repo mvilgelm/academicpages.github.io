@@ -13,11 +13,11 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Journals
 
-1. <u>Vilgelm, M.</u>, Rueda Linares, S., Kellerer, W. (2019). Dynamic Binary Countdown for Massive IoT Random Access in Dense 5G Networks. _Accepted to IEEE Internet of Things Journal_.
+1. <u>Vilgelm, M.</u>, Rueda Linares, S., Kellerer, W. (2019). Dynamic Binary Countdown for Massive IoT Random Access in Dense 5G Networks. _IEEE Internet of Things Journal_. <u><a href=https://arxiv.org/pdf/1904.08705.pdf>PDF (Arxiv)</a></u> 
 
-1. Gürsu, M., <u>Vilgelm, M.</u>, Martinez Alba, A., Berioli, M., Kellerer, W. (2019). Admission Control based Traffic-Agnostic Delay-Constrained Random Access (AC/DC-RA) for M2M Communication. _Accepted to IEEE Transactions on Wireless Communications_, _pp._.
+1. Gürsu, M., <u>Vilgelm, M.</u>, Martinez Alba, A., Berioli, M., Kellerer, W. (2019). Admission Control based Traffic-Agnostic Delay-Constrained Random Access (AC/DC-RA) for M2M Communication. _IEEE Transactions on Wireless Communications_, _pp._.
 
-2. <u>Vilgelm, M.</u>, Rueda Linares, S., Kellerer, W. (2018). On the Resource Consumption of M2M Random Access: Efficiency and Pareto Optimality. _IEEE Wireless Communications Letters_, _pp._. <u><a href="https://doi.org/10.1109/LWC.2018.2886892">DOI</a></u>
+2. <u>Vilgelm, M.</u>, Rueda Linares, S., Kellerer, W. (2018). On the Resource Consumption of M2M Random Access: Efficiency and Pareto Optimality. _IEEE Wireless Communications Letters_, _pp._. <u><a href="https://doi.org/10.1109/LWC.2018.2886892">DOI</a></u>, <u><a href=https://arxiv.org/pdf/1811.02249.pdf>PDF (Arxiv)</a></u> 
 
 3. Zoppi, S., Van Bemten, A., Gürsu, H. M., <u>Vilgelm, M.</u>, Guck, J., & Kellerer, W. (2018). Achieving Hybrid Wired/Wireless Industrial Networks With WDetServ: Reliability-Based Scheduling for Delay Guarantees. _IEEE Transactions on Industrial Informatics_, _14_(5), 2307-2319. <u><a href="https://doi.org/10.1109/TII.2018.2803122">DOI</a></u>
 
@@ -29,9 +29,9 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 5. Jacquelin, A., <u>Vilgelm, M.</u>, Kellerer, W. (2019, January). Grant-Free Access with Multipacket Reception: Analysis and Reinforcement Learning Optimization. In _IEEE/IFIP Wireless On-demand Network systems and Services Conference (WONS)_, IEEE.
 
-5. Ayan, O., <u>Vilgelm, M.</u>, Klügel, M., Hirche, S., Kellerer, W. (2019, April). Age-of-Information vs. Value-of-Information Scheduling for Cellular Networked Control Systems. In _ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)_, ACM/IEEE.
+5. Ayan, O., <u>Vilgelm, M.</u>, Klügel, M., Hirche, S., Kellerer, W. (2019, April). Age-of-Information vs. Value-of-Information Scheduling for Cellular Networked Control Systems. In _ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)_, ACM/IEEE. <u><a href=https://arxiv.org/pdf/1903.05356.pdf>PDF (Arxiv)</a></u> 
 
-5. <u>Vilgelm, M.</u>, Schiessl, S., Al-Zubaidy, H., Kellerer, W., & Gross, J. (2018, May). On the Reliability of LTE Random Access: Performance Bounds for Machine-to-Machine Burst Resolution Time. In _2018 IEEE International Conference on Communications (ICC)_ (pp. 1-7). IEEE. <u><a href="https://doi.org/10.1109/ICC.2018.8422323">DOI</a></u>
+5. <u>Vilgelm, M.</u>, Schiessl, S., Al-Zubaidy, H., Kellerer, W., & Gross, J. (2018, May). On the Reliability of LTE Random Access: Performance Bounds for Machine-to-Machine Burst Resolution Time. In _2018 IEEE International Conference on Communications (ICC)_ (pp. 1-7). IEEE. <u><a href="https://doi.org/10.1109/ICC.2018.8422323">DOI</a></u>, <u><a href=https://arxiv.org/pdf/1712.02055.pdf>PDF (Arxiv)</a></u> 
 
 6. Soleymani, T., Zoppi, S., <u>Vilgelm, M.</u>, Hirche, S., Kellerer, W., & Baras, J. S. (2018). Covariance-based transmission power control for estimation over wireless sensor networks. In _European Control Conference (ECC)_.
 
