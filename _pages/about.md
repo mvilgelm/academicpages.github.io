@@ -22,7 +22,12 @@ Education
 
 Employment history
 ======
-* 12/2013-Present: **Researcher and Teaching Associate**
+* 04/2013-06/2019: **Senior Researcher**
+  * Technical University of Munich, Germany
+  * <u><a href="http://www.lkn.ei.tum.de">Chair of Communication Networks (Prof. Wolfgang Kellerer)</a></u>
+  * See [Projects](https://mvilgelm.github.io/projects/) for more
+
+* 12/2013-03/2019: **Researcher and Teaching Associate**
   * Technical University of Munich, Germany
   * <u><a href="http://www.lkn.ei.tum.de">Chair of Communication Networks (Prof. Wolfgang Kellerer)</a></u>
   * See [Projects](https://mvilgelm.github.io/projects/) for more
