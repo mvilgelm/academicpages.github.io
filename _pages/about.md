@@ -22,7 +22,7 @@ Education
 
 Employment history
 ======
-* 04/2013-06/2019: **Senior Researcher**
+* 04/2019-06/2019: **Senior Researcher**
   * Technical University of Munich, Germany
   * <u><a href="http://www.lkn.ei.tum.de">Chair of Communication Networks (Prof. Wolfgang Kellerer)</a></u>
   * See [Projects](https://mvilgelm.github.io/projects/) for more
