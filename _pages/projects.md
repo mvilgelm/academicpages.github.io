@@ -7,7 +7,9 @@ author_profile: true
 
 Projects I have contributed or am currently contributing to:
 
-* 2019-present, <u><a href="https://www.ei.tum.de/en/lkn/research/5g-testbed-bayern/">5G Research Hub Munich</a>.</u>
+### <u><a href="https://www.ei.tum.de/en/lkn/research/5g-testbed-bayern/">5G Research Hub Munich</a>.</u>
+(2019-present)
+
 * 2018-present, Massive and Industrial IoT Support in 5G New Radio (Industry Project).
 
   Key publications:
