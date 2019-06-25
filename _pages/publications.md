@@ -27,6 +27,8 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Conference Proceedings
 
+5. Gürsu, H. M., Moroglu, C., <u>Vilgelm, M.</u>, Clazzer, F., Kellerer, W. (2019, October). System Level Integration of Irregular Repetition Slotted ALOHA for Industrial IoT in 5G New Radio. In _IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)_, accepted for presentation, IEEE.
+
 5. Jacquelin, A., <u>Vilgelm, M.</u>, Kellerer, W. (2019, January). Grant-Free Access with Multipacket Reception: Analysis and Reinforcement Learning Optimization. In _IEEE/IFIP Wireless On-demand Network systems and Services Conference (WONS)_, IEEE.
 
 5. Ayan, O., <u>Vilgelm, M.</u>, Klügel, M., Hirche, S., Kellerer, W. (2019, April). Age-of-Information vs. Value-of-Information Scheduling for Cellular Networked Control Systems. In _ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)_, ACM/IEEE. <u><a href="https://arxiv.org/pdf/1903.05356.pdf">PDF (Arxiv)</a></u> 
