@@ -7,6 +7,10 @@ author_profile: true
 
 For further info, you can refer to my <u><a href="https://scholar.google.de/citations?user=MxXPgfAAAAAJ&hl=en">Google Scholar page</a></u>
 
+# Preprints
+
+1. Zoppi, S., Soleymani, T., Klügel, M., <u>Vilgelm, M.</u>, Hirche, S., & Kellerer, W. (2019). A Medium‐access Approach to Wireless Technologies for Reliable Communication in Aircraft. _Submitted to IEEE_, <u><a href="https://arxiv.org/pdf/1907.07018.pdf">PDF (Arxiv)</a></u> 
+
 # Book Chapters
 
 1. Gürsu, M., <u>Vilgelm, M.</u>, Fazli, E., & Kellerer, W. (2017). A Medium‐access Approach to Wireless Technologies for Reliable Communication in Aircraft. _Wireless Sensor Systems for Extreme Environments: Space, Underwater, Underground and Industrial_, 431-451. <u><a href="https://doi.org/10.1002/9781119126492.ch20">DOI</a></u>
