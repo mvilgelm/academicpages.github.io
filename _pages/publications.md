@@ -9,7 +9,7 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Preprints
 
-1. Zoppi, S., Soleymani, T., Klügel, M., <u>Vilgelm, M.</u>, Hirche, S., & Kellerer, W. (2019). A Medium‐access Approach to Wireless Technologies for Reliable Communication in Aircraft. _Submitted to IEEE_, <u><a href="https://arxiv.org/pdf/1907.07018.pdf">PDF (Arxiv)</a></u> 
+1. Zoppi, S., Soleymani, T., Klügel, M., <u>Vilgelm, M.</u>, Hirche, S., & Kellerer, W. (2019). A Medium‐access Approach to Wireless Technologies for Reliable Communication in Aircraft. _Submitted to IEEE for possible publication_, <u><a href="https://arxiv.org/pdf/1907.07018.pdf">PDF (Arxiv)</a></u> 
 
 # Book Chapters
 
