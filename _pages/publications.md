@@ -31,7 +31,7 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Conference Proceedings
 
-5. Gürsu, H. M., Moroglu, C., <u>Vilgelm, M.</u>, Clazzer, F., Kellerer, W. (2019, October). System Level Integration of Irregular Repetition Slotted ALOHA for Industrial IoT in 5G New Radio. In _IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)_, accepted for presentation, IEEE.
+5. Gürsu, H. M., Moroglu, C., <u>Vilgelm, M.</u>, Clazzer, F., Kellerer, W. (2019, October). System Level Integration of Irregular Repetition Slotted ALOHA for Industrial IoT in 5G New Radio. In _IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)_, accepted for presentation, IEEE. <u><a href="https://mediatum.ub.tum.de/doc/1506726/file.pdf">PDF (Mediatum)</a></u>
 
 5. Jacquelin, A., <u>Vilgelm, M.</u>, Kellerer, W. (2019, January). Grant-Free Access with Multipacket Reception: Analysis and Reinforcement Learning Optimization. In _IEEE/IFIP Wireless On-demand Network systems and Services Conference (WONS)_, IEEE.
 
