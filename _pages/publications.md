@@ -17,9 +17,9 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Journals
 
-1. <u>Vilgelm, M.</u>, Rueda Linares, S., Kellerer, W. (2019). Dynamic Binary Countdown for Massive IoT Random Access in Dense 5G Networks. _IEEE Internet of Things Journal_. <u><a href="https://arxiv.org/pdf/1904.08705.pdf">PDF (Arxiv)</a></u> 
+1. <u>Vilgelm, M.</u>, Rueda Linares, S., Kellerer, W. (2019). Dynamic Binary Countdown for Massive IoT Random Access in Dense 5G Networks. _IEEE Internet of Things Journal_. <u><a href="https://doi.org/10.1109/JIOT.2019.2912424">DOI</a></u>, <u><a href="https://arxiv.org/pdf/1904.08705.pdf">PDF (Arxiv)</a></u> 
 
-1. Gürsu, M., <u>Vilgelm, M.</u>, Martinez Alba, A., Berioli, M., Kellerer, W. (2019). Admission Control based Traffic-Agnostic Delay-Constrained Random Access (AC/DC-RA) for M2M Communication. _IEEE Transactions on Wireless Communications_, _pp._, <u><a href="https://arxiv.org/pdf/1903.11320.pdf">PDF (Arxiv)</a></u>
+1. Gürsu, M., <u>Vilgelm, M.</u>, Martinez Alba, A., Berioli, M., Kellerer, W. (2019). Admission Control based Traffic-Agnostic Delay-Constrained Random Access (AC/DC-RA) for M2M Communication. _IEEE Transactions on Wireless Communications_, _pp._, <u><a href="https://doi.org/10.1109/TWC.2019.2908914">DOI</a></u>, <u><a href="https://arxiv.org/pdf/1903.11320.pdf">PDF (Arxiv)</a></u>
 
 2. <u>Vilgelm, M.</u>, Rueda Linares, S., Kellerer, W. (2018). On the Resource Consumption of M2M Random Access: Efficiency and Pareto Optimality. _IEEE Wireless Communications Letters_, _pp._. <u><a href="https://doi.org/10.1109/LWC.2018.2886892">DOI</a></u>, <u><a href="https://arxiv.org/pdf/1811.02249.pdf">PDF (Arxiv)</a></u> 
 
