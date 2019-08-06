@@ -9,6 +9,8 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Preprints
 
+1. Ayan, O., <u>Vilgelm, M.</u>, Kellerer, W. (2019), Optimal Scheduling for Discounted Age Penalty Minimization in Multi-Loop Networked Control. _Submitted to IEEE for possible publication_, <u><a href="https://arxiv.org/pdf/1908.01503">PDF (Arxiv)</a></u> 
+
 1. Zoppi, S., Soleymani, T., Klügel, M., <u>Vilgelm, M.</u>, Hirche, S., & Kellerer, W. (2019). Transmission Power Control for Remote State Estimation in Industrial Wireless Sensor Networks. _Submitted to IEEE for possible publication_, <u><a href="https://arxiv.org/pdf/1907.07018.pdf">PDF (Arxiv)</a></u> 
 
 # Book Chapters
