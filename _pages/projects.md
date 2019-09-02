@@ -5,7 +5,7 @@ title: "Projects"
 author_profile: true
 ---
 
-Projects I have contributed or am currently contributing to:
+Projects I have contributed to during my work at Technical University of Munich:
 
 ### <u><a href="https://www.5g-munich.de/">5G Research Hub Munich</a>.</u>
 * 2019-present
