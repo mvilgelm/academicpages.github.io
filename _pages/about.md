@@ -22,6 +22,9 @@ Education
 
 Employment history
 ======
+* 09/2019-present: **Wireless System Engineer**
+  * Apple, Munich, Germany
+  
 * 04/2019-06/2019: **Senior Researcher**
   * Technical University of Munich, Germany
   * <u><a href="http://www.lkn.ei.tum.de">Chair of Communication Networks (Prof. Wolfgang Kellerer)</a></u>
