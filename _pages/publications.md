@@ -9,6 +9,8 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Preprints
 
+1. Klügel, M., Mamduhi, M. H., Ayan, O., <u>Vilgelm, M.</u>, Johansson, K. H., Hirche, S., Kellerer, W. (2019), Joint Cross-layer Optimization in Real-Time Networked Control Systems. _Submitted to IEEE for possible publication_, <u><a href="https://arxiv.org/abs/1910.04631">PDF (Arxiv)</a></u> 
+
 1. Ayan, O., <u>Vilgelm, M.</u>, Kellerer, W. (2019), Optimal Scheduling for Discounted Age Penalty Minimization in Multi-Loop Networked Control. _Accepted for presentation at IEEE Consumer Communications and Networking Conference (CCNC)_, <u><a href="https://arxiv.org/pdf/1908.01503">PDF (Arxiv)</a></u> 
 
 1. Zoppi, S., Soleymani, T., Klügel, M., <u>Vilgelm, M.</u>, Hirche, S., & Kellerer, W. (2019). Transmission Power Control for Remote State Estimation in Industrial Wireless Sensor Networks. _Submitted to IEEE for possible publication_, <u><a href="https://arxiv.org/pdf/1907.07018.pdf">PDF (Arxiv)</a></u> 
