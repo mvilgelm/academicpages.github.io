@@ -22,7 +22,7 @@ Education
 
 Employment history
 ======
-* 09/2019-present: **Wireless System Engineer**
+* 09/2019-present: **Wireless System Architect**
   * Apple, Munich, Germany
   
 * 04/2019-06/2019: **Senior Researcher**
