@@ -42,6 +42,7 @@ Employment history
 * 05/2017-06/2017: **Visiting Researcher**
   * KTH Royal Institute of Technology (Stockholm, Sweden)
   * <u><a href="https://www.kth.se/ise">Dept. of Information Science and Engineering (group of Prof. James Gross)</a></u>
+  * Queuing-theoretic reliability analysis of stochastic medium access protocols.
 
 * 04/2013-10/2013: **Master's thesis**
   * DOCOMO European Communication Laboratories (Munich, Germany)
