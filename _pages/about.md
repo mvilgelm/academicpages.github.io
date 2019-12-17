@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in the field of wireless communications engineering. My current research interests and expertise lie in the following areas:
+I am a researcher in the field of wireless communications engineering. My expertise is in the following areas:
 * Machine learning with communications constraints,
 * Machine-to-Machine and Machine Type Communications,
 * Modeling and optimization of Medium Access Control protocols,
