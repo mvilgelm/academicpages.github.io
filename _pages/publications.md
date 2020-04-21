@@ -9,8 +9,6 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Preprints
 
-1. Klügel, M., Mamduhi, M. H., Ayan, O., <u>Vilgelm, M.</u>, Johansson, K. H., Hirche, S., Kellerer, W. (2019), Joint Cross-layer Optimization in Real-Time Networked Control Systems. _Submitted to IEEE for possible publication_, <u><a href="https://arxiv.org/abs/1910.04631">PDF (Arxiv)</a></u> 
-
 1. Zoppi, S., Soleymani, T., Klügel, M., <u>Vilgelm, M.</u>, Hirche, S., & Kellerer, W. (2019). Transmission Power Control for Remote State Estimation in Industrial Wireless Sensor Networks. _Submitted to IEEE for possible publication_, <u><a href="https://arxiv.org/pdf/1907.07018.pdf">PDF (Arxiv)</a></u> 
 
 # Book Chapters
@@ -18,6 +16,8 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 1. Gürsu, M., <u>Vilgelm, M.</u>, Fazli, E., & Kellerer, W. (2017). A Medium‐access Approach to Wireless Technologies for Reliable Communication in Aircraft. _Wireless Sensor Systems for Extreme Environments: Space, Underwater, Underground and Industrial_, 431-451. <u><a href="https://doi.org/10.1002/9781119126492.ch20">DOI</a></u>
 
 # Journal articles
+
+1. Klügel, M., Mamduhi, M. H., Ayan, O., <u>Vilgelm, M.</u>, Johansson, K. H., Hirche, S., Kellerer, W. (2020), Joint Cross-layer Optimization in Real-Time Networked Control Systems. _Accepted to IEEE Transactions on Control of Network Systems_, <u><a href="https://arxiv.org/abs/1910.04631">PDF (Arxiv)</a></u> 
 
 1. <u>Vilgelm, M.</u>, Rueda Linares, S., Kellerer, W. (2019). Dynamic Binary Countdown for Massive IoT Random Access in Dense 5G Networks. _IEEE Internet of Things Journal_. <u><a href="https://doi.org/10.1109/JIOT.2019.2912424">DOI</a></u>, <u><a href="https://arxiv.org/pdf/1904.08705.pdf">PDF (Arxiv)</a></u> 
 
