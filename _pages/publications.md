@@ -33,7 +33,7 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Conference Proceedings
 
-1. Ayan, O., <u>Vilgelm, M.</u>, Kellerer, W. (2019), Optimal Scheduling for Discounted Age Penalty Minimization in Multi-Loop Networked Control. _Accepted for presentation at IEEE Consumer Communications and Networking Conference (CCNC)_, <u><a href="https://arxiv.org/pdf/1908.01503">PDF (Arxiv)</a></u> 
+1. Ayan, O., <u>Vilgelm, M.</u>, Kellerer, W. (2020), Optimal Scheduling for Discounted Age Penalty Minimization in Multi-Loop Networked Control. _Accepted for presentation at IEEE Consumer Communications and Networking Conference (CCNC)_, <u><a href="https://arxiv.org/pdf/1908.01503">PDF (Arxiv)</a></u> 
 
 5. Gürsu, H. M., Moroglu, C., <u>Vilgelm, M.</u>, Clazzer, F., Kellerer, W. (2019, October). System Level Integration of Irregular Repetition Slotted ALOHA for Industrial IoT in 5G New Radio. In _IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)_, IEEE. <u><a href="https://mediatum.ub.tum.de/doc/1506726/file.pdf">PDF (Mediatum)</a></u>
 
