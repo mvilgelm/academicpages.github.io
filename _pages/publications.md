@@ -33,11 +33,11 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Conference Proceedings
 
-1. Ayan, O., <u>Vilgelm, M.</u>, Kellerer, W. (2020), Optimal Scheduling for Discounted Age Penalty Minimization in Multi-Loop Networked Control. _Accepted for presentation at IEEE Consumer Communications and Networking Conference (CCNC)_, <u><a href="https://arxiv.org/pdf/1908.01503">PDF (Arxiv)</a></u> 
+1. Ayan, O., <u>Vilgelm, M.</u>, Kellerer, W. (2020), Optimal Scheduling for Discounted Age Penalty Minimization in Multi-Loop Networked Control. In _IEEE Consumer Communications and Networking Conference (CCNC)_, IEEE. <u><a href="https://arxiv.org/pdf/1908.01503">PDF (Arxiv)</a></u> 
 
 5. Gürsu, H. M., Moroglu, C., <u>Vilgelm, M.</u>, Clazzer, F., Kellerer, W. (2019, October). System Level Integration of Irregular Repetition Slotted ALOHA for Industrial IoT in 5G New Radio. In _IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)_, IEEE. <u><a href="https://mediatum.ub.tum.de/doc/1506726/file.pdf">PDF (Mediatum)</a></u>
 
-5. Jacquelin, A., <u>Vilgelm, M.</u>, Kellerer, W. (2019, January). Grant-Free Access with Multipacket Reception: Analysis and Reinforcement Learning Optimization. In _IEEE/IFIP Wireless On-demand Network systems and Services Conference (WONS)_, IEEE.
+5. Jacquelin, A., <u>Vilgelm, M.</u>, Kellerer, W. (2019, January). Grant-Free Access with Multipacket Reception: Analysis and Reinforcement Learning Optimization. In _IEEE/IFIP Wireless On-demand Network systems and Services Conference (WONS)_, IEEE/IFIP.
 
 5. Ayan, O., <u>Vilgelm, M.</u>, Klügel, M., Hirche, S., Kellerer, W. (2019, April). Age-of-Information vs. Value-of-Information Scheduling for Cellular Networked Control Systems. In _ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)_, ACM/IEEE. <u><a href="https://arxiv.org/pdf/1903.05356.pdf">PDF (Arxiv)</a></u> 
 
