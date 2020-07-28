@@ -13,6 +13,8 @@ For further info, you can refer to my <u><a href="https://scholar.google.de/cita
 
 # Book Chapters
 
+1. <u>Vilgelm, M.</u>, Gürsu, M., Kellerer, W. (2020). Random Access Protocols for Industrial Internet of Things: Enablers, Challenges, and Research Directions. _Wireless Networks and Industrial Internet of Things_. <u><a href="https://doi.org/10.1007/978-3-030-51473-0">DOI</a></u>
+
 1. Gürsu, M., <u>Vilgelm, M.</u>, Fazli, E., & Kellerer, W. (2017). A Medium‐access Approach to Wireless Technologies for Reliable Communication in Aircraft. _Wireless Sensor Systems for Extreme Environments: Space, Underwater, Underground and Industrial_, 431-451. <u><a href="https://doi.org/10.1002/9781119126492.ch20">DOI</a></u>
 
 # Journal articles
