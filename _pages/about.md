@@ -16,7 +16,7 @@ I am a researcher in the field of wireless communications engineering. My expert
 
 Education
 ======
-* *Ph.D. (Dr.-Ing.)*, Electrical Engineering and Information Technology, Technical University of Munich, Germany, 2014-2019
+* *Ph.D. (Dr.-Ing.)*, Electrical Engineering and Information Technology, Technical University of Munich, Germany, 2014-2019. <u><a href="https://mediatum.ub.tum.de/doc/1452656/file.pdf">PhD thesis</a></u>.
 * *M.Sc.*, Electrical Engineering and Information Technology, Technical University of Munich, (Germany), 2011-2013
 * *Engineering Degree (Dipl.-Ing.)*,  Information Technology, Ural Federal University (Yekaterinburg, Russia), 2006-2011
 
