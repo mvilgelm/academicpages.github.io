@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in the field of wireless communications engineering. My expertise is in the following areas:
-* Machine learning with communications constraints,
-* Machine-to-Machine and Machine Type Communications,
-* Modeling and optimization of Medium Access Control protocols,
-* Modeling and analysis of Cyber Physical Networks.
+My general research interests:
+* Ultra-reliable low-latency communications,
+* Industrial Internet of Things,
+* Applied stochastic optimization and reinforcement learning.
 
 Education
 ======
