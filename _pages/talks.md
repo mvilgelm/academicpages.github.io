@@ -4,7 +4,7 @@ title: "Selected talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-* *Stochastic Optimization and Its Application to Resource Allocation in Wireless Networks*, Invited Talk at the <u>School of Machine Learning, Ural Federal University</u>, Yekaterinburg, Russia, Nov. 2020
+* *Stochastic Optimization and Its Application to Resource Allocation in Wireless Networks*, Invited Talk at the <u>School of Machine Learning, Ural Federal University</u>, Yekaterinburg, Russia, Nov. 2020, <u><a href="https://youtu.be/YRzO6DRRNfk ">Link to video.</a></u>
 * *Random Access Protocols for Massive and Reliable Machine-to-Machine Communications*, Invited Talk at the <u>German Aerospace Center / Deutsches Zentrum für Lüft- und Raumfahrt</u>, Oberpfaffenhofen, Germany, Jun. 2019
 * *On the Reliability of LTE Random Access: Performance Bounds for Machine-to-Machine Burst Resolution Time*, Invited Talk at the <u>Aalborg University</u>, Denmark, Jun. 2018
 * *Prioritized Contention Resolution for Random Access Networked Control Systems*, Invited Talk at the <u>University
