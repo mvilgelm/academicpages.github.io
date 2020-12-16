@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My general research interests:
+My research interests include:
 * Ultra-reliable low-latency communications,
 * Industrial Internet of Things,
 * Applied stochastic optimization and reinforcement learning.
