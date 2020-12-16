@@ -17,7 +17,7 @@ Education
 ======
 * *Ph.D. (Dr.-Ing.)*, Electrical Engineering and Information Technology, Technical University of Munich, Germany, 2014-2019. 
 
-Thesis: <u><a href="https://mediatum.ub.tum.de/doc/1452656/file.pdf"></a>Random Access Protocols for Massive and Reliable M2M Communications</u>.
+Thesis: <u><a href="https://mediatum.ub.tum.de/doc/1452656/file.pdf">Random Access Protocols for Massive and Reliable M2M Communications</a></u>.
 * *M.Sc.*, Electrical Engineering and Information Technology, Technical University of Munich, (Germany), 2011-2013. 
 
 Thesis: *Mobility Management in Optical Mobile Network*.
