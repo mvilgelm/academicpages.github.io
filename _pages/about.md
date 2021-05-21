@@ -23,6 +23,13 @@ Thesis: <u><a href="https://mediatum.ub.tum.de/doc/1452656/file.pdf">Random Acce
 Thesis: *Mobility Management in Optical Mobile Network*.
 * *Engineering Degree (Dipl.-Ing.)*,  Information Technology, Ural Federal University (Yekaterinburg, Russia), 2006-2011
 
+Awards
+------
+
+* 01/2019 **Best Paper Award** at IEEE/IFIP Wireless On-demand Network systems and Services (WONS) Conference, Wengen, Switzerland, awarded for the paper *Grant-free Access with Multipacket Reception: Analysis and Reinforcement Learning Optimization*.
+
+* 10/2017 **Best Student Paper Award** at IEEE International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), awarded for the paper *Enhancing Cellular M2M Random Access with Binary Countdown Contention Resolution*.
+
 Employment history
 ======
 * 09/2019-present: **Wireless System Architect**
@@ -61,11 +68,4 @@ Mobile Network" (Q. Wei, M. Vilgelm, M. Lott, W. Kellerer)
   * Telemotive AG (Munich, Germany)
   * C++ Software development for automated product tests, in-car communications (CAN, LIN, WLAN, ...)
   
-  
-Awards
-------
-
-* 01/2019 **Best Paper Award** at IEEE/IFIP Wireless On-demand Network systems and Services (WONS) Conference, Wengen, Switzerland, awarded for the paper *Grant-free Access with Multipacket Reception: Analysis and Reinforcement Learning Optimization*.
-
-* 10/2017 **Best Student Paper Award** at IEEE International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), awarded for the paper *Enhancing Cellular M2M Random Access with Binary Countdown Contention Resolution*.
 
