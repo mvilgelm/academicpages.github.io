@@ -30,7 +30,7 @@ Awards
 
 * 10/2017 **Best Student Paper Award** at IEEE International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), awarded for the paper *Enhancing Cellular M2M Random Access with Binary Countdown Contention Resolution*.
 
-Employment history
+Employment
 ======
 * 09/2019-present: **Wireless System Architect**
   * Apple, Munich, Germany
