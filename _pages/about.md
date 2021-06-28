@@ -24,7 +24,7 @@ Thesis: *Mobility Management in Optical Mobile Network*.
 * *Engineering Degree (Dipl.-Ing.)*,  Information Technology, Ural Federal University (Yekaterinburg, Russia), 2006-2011
 
 Awards
-------
+======
 
 * 01/2019 **Best Paper Award** at IEEE/IFIP Wireless On-demand Network systems and Services (WONS) Conference, Wengen, Switzerland, awarded for the paper *Grant-free Access with Multipacket Reception: Analysis and Reinforcement Learning Optimization*.
 
