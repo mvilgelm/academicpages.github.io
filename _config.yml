@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mikhail Vilgelm"
+title                    : "Mikhail Wilhelm (Vilgelm)"
 title_separator          : "-"
-name                     : &name "Mikhail Vilgelm, Ph.D."
+name                     : &name "Mikhail Wilhelm (Vilgelm), Ph.D."
 description              : &description "Researcher, Wireless Networking"
 url                      : https://mvilgelm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mikhail Vilgelm"
+  name             : "Mikhail Wilhelm (Vilgelm)"
   avatar           : "profile.jpg"
   bio              : "Wireless System Architect, Apple"
   location         : "Munich, Germany"
